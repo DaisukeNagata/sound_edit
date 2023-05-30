@@ -1,3 +1,3 @@
-*.dart linguist-vendored
-*.Swift linguist-vendored
-*.Kotlin linguist-vendored
+*.Dart linguist-detectable=true
+*.Swift linguist-detectable=true
+*.Kotlin linguist-detectable=true
