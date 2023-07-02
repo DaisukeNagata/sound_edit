@@ -1,6 +1,6 @@
 name: sound_edit
 description: This function allows you to combine audio files regardless of extension and edit the playback time.
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/DaisukeNagata/sound_edit/tree/main
 
 environment:
